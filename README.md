@@ -1,6 +1,7 @@
-# inaugural-superlatives
+# Language at Full Volume: Superlatives in U.S. Inaugurals
 
-Language at Full Volume: Superlatives in U.S. Inaugurals
+Data: 60 U.S. Presidential Inaugural Addresses (1789–2025), sourced from the U.S. Government Publishing Office. Texts available via C-SPAN Inaugural Address Corpus compiled by Kathleen Ahrens (2021).
+
 There's nothing more emphatic than a superlative. A superlative adjective marks something as occupying the upper or lower extreme in a comparison, becoming shortcuts to certainty, authority, and emotional intensity; an unsurprising reason they appear so frequently in political speeches. As Adrian Beard notes in The Language of Politics (Routledge, 2000), "Political parties like to stress the importance of their views, so not surprisingly a superlative form appears at once."
 
 Research into political discourse has shown that heightened linguistic intensity — including hyperbole and superlatives — can correlate with detachment from reality, incitements to violence, and even real-world unrest (Los Angeles Times, 2024). In recent years, the United States has seen rising civil tension and widening socioeconomic divides, exacerbated by Donald Trump's fierce public rhetoric. His campaign slogan, Make America Great Again, is itself anchored in a superlative, implying both an existing decline and a promised restoration for the USA.
